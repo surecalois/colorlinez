@@ -20,7 +20,7 @@ set ( SOURCES
 set ( MOC_HEADERS
  mainwindow.h
  colorlinez_scene.h
- colorlinez2.h
+ #colorlinez2.h
 )
 
 set ( UIS
